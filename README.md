@@ -12,11 +12,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-active-complete](./design/complete/desktop-active-complete), ![desktop-complete](./design/complete/desktop-complete), ![mobile-active-complete](./design/complete/mobile-active-complete), ![mobile-complete](./design/complete/mobile-complete)
+![desktop-active-complete](.design/complete/desktop-active-complete), ![desktop-complete](.design/complete/desktop-complete), ![mobile-active-complete](.design/complete/mobile-active-complete), ![mobile-complete](.design/complete/mobile-complete)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github page](https://github.com/PhilJG/article-preview-component)
+- Live Site URL: [Add live site URL here](https://philjg.github.io/article-preview-component/)
 
 ## My process
 
