@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-active-complete](.design/complete/desktop-active-complete), ![desktop-complete](.design/complete/desktop-complete), ![mobile-active-complete](.design/complete/mobile-active-complete), ![mobile-complete](.design/complete/mobile-complete)
+![desktop-active-complete](/design/complete/desktop-active-complete), ![desktop-complete](/design/complete/desktop-complete), ![mobile-active-complete](/design/complete/mobile-active-complete), ![mobile-complete](/design/complete/mobile-complete)
 
 ### Links
 
 - Solution URL: [Github page](https://github.com/PhilJG/article-preview-component)
-- Live Site URL: [Add live site URL here](https://philjg.github.io/article-preview-component/)
+- Live Site URL: [Live site](https://philjg.github.io/article-preview-component/)
 
 ## My process
 
@@ -70,7 +70,7 @@ shareOff.addEventListener('click', hideSocial);
 
 ### Continued development
 
-Positionin the contact and social boxes on top of each other with the box-model was challenging and messey. I will need to look into ways to improve on that.
+Positioning the contact and social boxes on top of each other with the box-model was challenging and messey. I will need to look into ways to improve on that.
 I cannot get the social box to hide when the same button is pressed on desktop. I will need to figure that out.
 Over all layout and styling with size and typography are not exactly like the original. I will need to look into methods to better imitate the mockups
 

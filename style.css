@@ -123,22 +123,18 @@ p {
 }
 
 .share {
-  width: 30px;
+  width: 35px;
   padding: 0.5rem;
   border-radius: 30px;
   border: none;
   align-self: flex-end;
-  bottom: -5px;
+  bottom: -6px;
   position: relative;
 }
 
-.share-off {
+.share-on .share-off {
   background-color: var(--light-grayish-blue);
-}
-
-.share-on {
-  background-color: var(--grayish-blue);
-  color: var(--light-grayish-blue);
+  margin-top: 0.5;
 }
 
 .social {

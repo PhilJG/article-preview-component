@@ -1,24 +1,13 @@
-const shareOff = document.querySelector('.share-off');
+'use strict';
+
+const share = document.getElementsByClassName('share');
 const profile = document.querySelector('.profile');
 const social = document.querySelector('.social');
 
 const showSocial = function () {
-  if (social.classList.contains('hidden')) {
-    social.classList.add('flex');
-  }
+  social.classList.toggle('flex');
+  social.classList.toggle('hidden');
 };
 
-const hideSocial = function () {
-  if (social.classList.contains('flex')) {
-    social.classList.add('hidden');
-    social.classList.remove('flex');
-    console.log('visible');
-  }
-};
-
-shareOff.addEventListener('click', showSocial);
-shareOff.addEventListener('click', hideSocial);
-
-// share.addEventListener('click', function () {
-//   if (!social.classList.contains('hidden')) social.classList.add('hidden');
-// });
+for (let i = 0; i < share.length; i++)
+  share[i].addEventListener('click', showSocial);
